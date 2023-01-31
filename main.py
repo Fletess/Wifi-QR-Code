@@ -1,5 +1,4 @@
 import qrcode
-import getpass
 
 from typing import Union
 
