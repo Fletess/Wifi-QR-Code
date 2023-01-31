@@ -1,1 +1,6 @@
-'Wi-Fi QR Code Scanner' 
+Wi-Fi QR Code Scanner
+
+How to install and run:
+
+1. Install required libaries: pip install qrcode
+2. Run: py main.py
